@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# itsme
 
 <h1 align="center">Hi 👋, I'm Denis Andrian</h1>
 <h3 align="center">I'm an IT professional with a strong background in server and network administration, infrastructure management, and cloud technologies.</h3>
